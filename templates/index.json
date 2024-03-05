@@ -18,7 +18,7 @@
             "button_style_secondary_1": true,
             "button_label_2": "About",
             "button_link_2": "shopify:\/\/pages\/contact",
-            "button_style_secondary_2": true
+            "button_style_secondary_2": false
           }
         }
       },
