@@ -2,6 +2,7 @@
 
 > [!NOTE]
 > This repository is automatically linked to the theme for the [No Clocks Development Shopify Store](https://store.noclocks.dev/).
+> Login using store password `p`.
 
 ## Contents
 
