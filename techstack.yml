@@ -1,0 +1,52 @@
+repo_name: noclocks/shopify-devstore-theme
+report_id: 77d019750474d6104f6dc0a9a5a7d779
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-08T21:38:48+00:00'
+requested_by: jimbrig
+provider: github
+branch: main
+detected_tools_count: 4
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/noclocks/shopify-devstore-theme
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/noclocks/shopify-devstore-theme
+  detection_source: Repo Metadata
+- name: Liquid
+  description: Open-source template language written in Ruby
+  website_url: https://shopify.github.io/liquid
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1746/no-img-open-source.png
+  detection_source_url: https://github.com/noclocks/shopify-devstore-theme
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/noclocks/shopify-devstore-theme
+  detection_source: Repo Metadata
