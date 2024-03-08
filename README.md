@@ -13,7 +13,11 @@
 
 The theme is originally based off of the Dawn v13.0.1 theme.
 
-## Structure
+## Tech Stack
 
-```
-```
+`shopify-devstore-theme` is built on the following main stack:
+
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Liquid](https://shopify.github.io/liquid) – Templating Languages & Extensions
+
+Full tech stack [here](/techstack.md)
