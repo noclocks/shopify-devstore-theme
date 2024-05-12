@@ -29,12 +29,12 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/84C5214C-3C1F-42E2-BDEC-D9377F0F93CA.jpg",
         "image_overlay_opacity": 10,
-        "image_height": "medium",
-        "desktop_content_position": "bottom-center",
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-4",
-        "image_behavior": "zoom-in",
+        "image_behavior": "ambient",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
