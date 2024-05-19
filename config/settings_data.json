@@ -169,6 +169,42 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "13768625480086291342": {
+        "type": "shopify:\/\/apps\/forms\/blocks\/forms\/8744a304-fcb1-4347-b211-bb6b4759a76a",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "5105516329895757182": {
+        "type": "shopify:\/\/apps\/extra-blu\/blocks\/extra_chat_embed\/d46656c4-1c04-4136-9090-183e4831e448",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "9005256451184024879": {
+        "type": "shopify:\/\/apps\/uppromote-affiliate\/blocks\/customer-referral\/64c32457-930d-4cb9-9641-e24c0d9cf1f4",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "1996061711396120121": {
+        "type": "shopify:\/\/apps\/uppromote-affiliate\/blocks\/message-bar\/64c32457-930d-4cb9-9641-e24c0d9cf1f4",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "14590438140231777464": {
+        "type": "shopify:\/\/apps\/tip-quik\/blocks\/tipquik\/e8537d4b-08b5-42f2-ad3d-bd0ce25fb64a",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "17699460525988123968": {
+        "type": "shopify:\/\/apps\/gameball\/blocks\/gb-widget\/4b916a35-b345-4d7d-9eb4-f51fec3f8c05",
+        "disabled": false,
+        "settings": {
+        }
       }
     },
     "color_schemes": {
