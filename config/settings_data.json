@@ -157,6 +157,18 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "6406956604159796213": {
+        "type": "shopify:\/\/apps\/smartseo\/blocks\/smartseo\/7b0a6064-ca2e-4392-9a1d-8c43c942357b",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "4976129024724438625": {
+        "type": "shopify:\/\/apps\/smartseo\/blocks\/brokenLinkDetection\/7b0a6064-ca2e-4392-9a1d-8c43c942357b",
+        "disabled": false,
+        "settings": {
+        }
       }
     },
     "color_schemes": {
