@@ -1,11 +1,20 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/main-logo-white-transparent.png",
+    "logo": "shopify:\/\/shop_images\/noclocks-logo-circular-texturized.png",
     "logo_width": 90,
-    "favicon": "shopify:\/\/shop_images\/noclocks-logo-main-white-transparent.png",
-    "type_header_font": "assistant_n4",
+    "favicon": "shopify:\/\/shop_images\/noclocks-logo-curcular-100x100_c6f5aeeb-8f43-4b01-8d54-3f1c9cbbccd8.png",
+    "type_header_font": "inter_n6",
     "heading_scale": 100,
-    "type_body_font": "assistant_n4",
+    "type_body_font": "inter_n4",
     "body_scale": 100,
     "page_width": 1200,
     "spacing_sections": 0,
@@ -98,12 +107,13 @@
     "badge_corner_radius": 40,
     "sale_badge_color_scheme": "scheme-4",
     "sold_out_badge_color_scheme": "scheme-3",
-    "brand_headline": "",
-    "brand_description": "<p><\/p>",
+    "brand_headline": "Timeless Tech. Infinite Innovation.",
+    "brand_description": "<p>Unlock top-tier tech consulting with No Clocks, LLC. Receive specialized support tailored to your industry demands.<\/p>",
+    "brand_image": "shopify:\/\/shop_images\/noclocks-logo-wordmkar-black.png",
     "brand_image_width": 100,
-    "social_facebook_link": "https:\/\/facebook.com",
+    "social_facebook_link": "https:\/\/facebook.com\/noclocks",
     "social_instagram_link": "http:\/\/instagram.com\/noclocks",
-    "social_youtube_link": "https:\/\/www.youtube.com\/",
+    "social_youtube_link": "https:\/\/www.youtube.com\/noclocks",
     "social_tiktok_link": "",
     "social_twitter_link": "https:\/\/twitter.com\/noclocksdev",
     "social_snapchat_link": "",
@@ -112,7 +122,7 @@
     "social_vimeo_link": "",
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
-    "predictive_search_show_price": false,
+    "predictive_search_show_price": true,
     "currency_code_enabled": true,
     "cart_type": "notification",
     "show_vendor": false,

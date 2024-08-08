@@ -20,10 +20,17 @@
             "heading": "Navigation",
             "menu": "footer"
           }
+        },
+        "brand_information_6qi7kY": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
+          }
         }
       },
       "block_order": [
-        "link_list_pRD9CB"
+        "link_list_pRD9CB",
+        "brand_information_6qi7kY"
       ],
       "settings": {
         "color_scheme": "scheme-4",
