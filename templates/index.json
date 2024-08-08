@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "image_banner": {
@@ -6,8 +15,8 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Welcome to the Store!",
-            "heading_size": "h0"
+            "heading": "Welcome to the No Clocks Store!",
+            "heading_size": "h1"
           }
         },
         "button": {
