@@ -25,7 +25,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/noclocks-atlanta-banner-image-top.png",
-            "image_width": 550,
+            "image_width": 495,
             "alignment": "center"
           }
         },
@@ -42,7 +42,7 @@
         "brand_information_6qi7kY"
       ],
       "settings": {
-        "color_scheme": "scheme-4",
+        "color_scheme": "scheme-3",
         "newsletter_enable": true,
         "newsletter_heading": "Subscribe to our emails",
         "enable_follow_on_shop": true,

@@ -16,7 +16,7 @@
           "type": "heading",
           "settings": {
             "heading": "Welcome to the No Clocks Store!",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "button": {
@@ -54,17 +54,17 @@
       "settings": {
         "title": "Featured Products",
         "heading_size": "h2",
-        "description": "",
+        "description": "<p>Explore our latest featured merchandise!<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 3,
+        "products_to_show": 10,
+        "columns_desktop": 4,
         "full_width": false,
-        "show_view_all": false,
+        "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": true,
-        "color_scheme": "scheme-4",
+        "color_scheme": "scheme-3",
         "image_ratio": "adapt",
         "image_shape": "blob",
         "show_secondary_image": true,
