@@ -36,9 +36,9 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/84C5214C-3C1F-42E2-BDEC-D9377F0F93CA.jpg",
+        "image": "shopify:\/\/shop_images\/atlanta-banner.png",
         "image_overlay_opacity": 10,
-        "image_height": "small",
+        "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
