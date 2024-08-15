@@ -215,6 +215,12 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "342581883589362958": {
+        "type": "shopify:\/\/apps\/amazon-importer\/blocks\/app-embed\/504e7aad-b13f-4c63-9fb4-39242cb040d5",
+        "disabled": false,
+        "settings": {
+        }
       }
     },
     "color_schemes": {
@@ -259,7 +265,7 @@
           "button": "#222831",
           "button_label": "#f3f3f3",
           "secondary_button_label": "#222831",
-          "shadow": "#8F8D8D"
+          "shadow": "#8f8d8d"
         }
       },
       "scheme-5": {
